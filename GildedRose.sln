@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose", "GildedRose.csproj", "{176C0214-9136-4079-8DAB-11D7420C3881}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRoseUnitTest", "GildedRoseUnitTest\GildedRoseUnitTest.csproj", "{FE6C5BCD-5913-4896-A397-C694F386093B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{176C0214-9136-4079-8DAB-11D7420C3881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{176C0214-9136-4079-8DAB-11D7420C3881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{176C0214-9136-4079-8DAB-11D7420C3881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6C5BCD-5913-4896-A397-C694F386093B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6C5BCD-5913-4896-A397-C694F386093B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6C5BCD-5913-4896-A397-C694F386093B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6C5BCD-5913-4896-A397-C694F386093B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F3AAE1-991F-48B8-B263-DA86871EB6CB}
 	EndGlobalSection
 EndGlobal
